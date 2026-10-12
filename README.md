@@ -51,11 +51,10 @@ Python環境を構築します。
 
 --- 【方法B】 ソースコードをコピペして作成する ---
 
-1. PC上の任意の場所に新しいフォルダ（例: back_pain）を作成します。
-2. フォルダ内で右クリック → 「新規作成」 → 「テキスト ドキュメント」 を選択します。
-3. ファイル名を BackPainReminderWcamera.pyw に変更します。
+1. PC上の任意のフォルダ内で右クリック → 「新規作成」 → 「テキスト ドキュメント」 を選択します。
+2. ファイル名を BackPainReminderWcamera.pyw に変更します。
    ※拡張子 .txt が .pyw に変わるように変更してください。
-4. BackPainReminderWcamera.pyw をメモ帳等で開き、
+3. BackPainReminderWcamera.pyw をメモ帳等で開き、
    https://github.com/tcc00313/back-pain-reminder/blob/main/BackPainReminderWcamera.pyw
    からプログラムのソースコードをコピペして保存します。
 
