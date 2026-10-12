@@ -55,20 +55,17 @@ Python環境を構築します。
 2. フォルダ内で右クリック → 「新規作成」 → 「テキスト ドキュメント」 を選択します。
 3. ファイル名を BackPainReminderWcamera.pyw に変更します。
    ※拡張子 .txt が .pyw に変わるように変更してください。
-4. BackPainReminderWcamera.pyw をメモ帳等で開き、https://github.com/tcc00313/back-pain-reminder/blob/main/BackPainReminderWcamera.pyw からプログラムのソースコードをコピペして保存します。
+4. BackPainReminderWcamera.pyw をメモ帳等で開き、
+   https://github.com/tcc00313/back-pain-reminder/blob/main/BackPainReminderWcamera.pyw
+   からプログラムのソースコードをコピペして保存します。
 
 
 ------------------------------------------------------------------------
 ■ 3. 起動方法
 ------------------------------------------------------------------------
-1. コマンドプロンプトを開き、プログラム（back_pain_reminder.pyw）がある
-   フォルダに移動します。
-    cd C:\パス\フォルダ名
+1. ファイルマネージャーで、BackPainReminderWcamera.pyw をダブルクリックすれば起動します。
 
-2. 以下のコマンドを実行してプログラムを起動します。
-    python BackPainReminderWcamera.pyw
-
-3. タスクトレイ（画面右下の「^」ボタン内など）にアイコンが表示されれば
+2. タスクトレイ（画面右下の「^」ボタン内など）にアイコンが表示されれば
    正常に起動しています。
 
 
