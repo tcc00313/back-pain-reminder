@@ -42,20 +42,16 @@ Python環境を構築します。
 --- 【方法A】 GitHubからクローンする ---
 
 1. Gitがインストールされている場合は、作業したいフォルダで以下を実行します。
-    git clone https://github.com/ユーザー名/back-pain-reminder.git
+    git clone https://github.com/tcc00313/back-pain-reminder.git
     cd back-pain-reminder
-
-2. (Gitが入っていない場合) GitHub上の本リポジトリページ右上にある
-   「Code」 ボタン → 「Download ZIP」 をクリックして解凍します。
-
 
 --- 【方法B】 ソースコードをコピペして作成する ---
 
 1. PC上の任意の場所に新しいフォルダ（例: back_pain）を作成します。
 2. フォルダ内で右クリック → 「新規作成」 → 「テキスト ドキュメント」 を選択します。
-3. ファイル名を back_pain_reminder.py に変更します。
-   ※拡張子 .txt が .py に変わるように変更してください。
-4. back_pain_reminder.py をメモ帳等で開き、プログラムのソースコードを貼り付けて保存します。
+3. ファイル名を back_pain_reminder.pyw に変更します。
+   ※拡張子 .txt が .pyw に変わるように変更してください。
+4. back_pain_reminder.pyw をメモ帳等で開き、プログラムのソースコードを貼り付けて保存します。
 
 
 ------------------------------------------------------------------------
@@ -66,7 +62,7 @@ Python環境を構築します。
     cd C:\パス\フォルダ名
 
 2. 以下のコマンドを実行してプログラムを起動します。
-    python back_pain_reminder.py
+    python back_pain_reminder.pyw
 
 3. タスクトレイ（画面右下の「^」ボタン内など）にアイコンが表示されれば
    正常に起動しています。
@@ -82,9 +78,7 @@ PC起動時に自動で立ち上がるようにしたい場合の手順です。
 2. そのフォルダ内で 右クリック → 新規作成 → ショートカット を選択します。
 3. 項目の場所に以下のように入力します（ファイルパスは環境に合わせて変更してください）。
 
-    pythonw.exe "C:\パス\back_pain_reminder.py"
-
-   ※ python.exe の代わりに pythonw.exe を使うと、黒いコマンド画面を出さずに裏で起動できます。
+    pythonw.exe "C:\パス\back_pain_reminder.pyw"
 
 4. 「次へ」を押し、名前を「腰痛防止リマインダー」などにして「完了」をクリックします。
 
