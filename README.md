@@ -21,6 +21,7 @@ Python環境を構築します。
    ※チェックを忘れると、コマンドプロンプトで python や pip コマンドが使用できません。
 
 【2】 コマンドプロンプトの確認
+
 キーボードの [Windowsキー] + [R] を押し、 cmd と入力して Enter を押し、
 コマンドプロンプトを開いて以下を実行します。
 
@@ -29,6 +30,7 @@ Python環境を構築します。
 バージョン番号（例: Python 3.11.x 等）が表示されれば成功です。
 
 【3】 必要なライブラリのインストール
+
 コマンドプロンプトで以下のコマンドを実行し、依存ライブラリを一括インストールします。
 
     pip install opencv-python pystray pillow
@@ -42,7 +44,9 @@ Python環境を構築します。
 --- 【方法A】 GitHubからクローンする ---
 
 1. Gitがインストールされている場合は、作業したいフォルダで以下を実行します。
+   
     git clone https://github.com/tcc00313/back-pain-reminder.git
+   
     cd back-pain-reminder
 
 --- 【方法B】 ソースコードをコピペして作成する ---
@@ -51,7 +55,7 @@ Python環境を構築します。
 2. フォルダ内で右クリック → 「新規作成」 → 「テキスト ドキュメント」 を選択します。
 3. ファイル名を BackPainReminderWcamera.pyw に変更します。
    ※拡張子 .txt が .pyw に変わるように変更してください。
-4. BackPainReminderWcamera.pyw をメモ帳等で開き、プログラムのソースコードを貼り付けて保存します。
+4. BackPainReminderWcamera.pyw をメモ帳等で開き、https://github.com/tcc00313/back-pain-reminder/blob/main/BackPainReminderWcamera.pyw からプログラムのソースコードをコピペして保存します。
 
 
 ------------------------------------------------------------------------
