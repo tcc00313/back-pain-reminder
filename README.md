@@ -1,10 +1,15 @@
 ======
 腰痛防止リマインダー (Webカメラ着席判定版)
-==========
-
+=======
 PC作業中の長時間の座りっぱなしを防ぐため、Webカメラの映像から動きを監視し、
 30分以上連続して着席している場合に警告ダイアログを表示する
 タスクトレイ常駐型アプリケーションです。２分離席するとリセットされます。
+
+## License　非商用は自由、収益目的の利用(改変含む)はすべて許可制。
+Source-available under PolyForm Noncommercial 1.0.0 (see LICENSE).
+Personal use and modification are free.
+Any use that generates revenue (including modified versions)
+requires a separate commercial license and revenue share.
 
 ------------------------------------------------------------------------
 ■ 1. 準備：Pythonおよび必要ライブラリのインストール
